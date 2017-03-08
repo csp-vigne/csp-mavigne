@@ -95,7 +95,7 @@ jQuery(function($) {'use strict',
 		animation: google.maps.Animation.DROP,
 		verticalAlign: 'bottom',
 		horizontalAlign: 'center',
-		backgroundColor: '#3e8bff',
+		backgroundColor: '#3e8bff'
 	});
 
 
