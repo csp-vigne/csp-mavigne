@@ -2,7 +2,7 @@ jQuery(function($) {'use strict',
 	
 	//Countdown js
 	 $("#countdown").countdown({
-			date: "10 july 2017 12:00:00",
+			date: "10 july 2018 12:00:00",
 			format: "on"
 		},
 		
@@ -84,7 +84,8 @@ jQuery(function($) {'use strict',
 		streetViewControl : false,
 		mapTypeControl: false,
 		overviewMapControl: false,
-		clickable: false
+		clickable: false,
+        title:'Saint Ambroise Ma vigne Angré'
 	});
 
 	var image = 'images/map-icon.png';
