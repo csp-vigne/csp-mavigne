@@ -2,11 +2,12 @@
 title: Chorale Sainte Philomene
 email: csp-mavigne@gmail.com
 description: > # site de la chorale Sainte Philomène.
-baseurl: /
+baseurl: ""
 url: http://medentipham.com # the base hostname & protocol for your site
 github_username:  csp-vigne
 
 # Build settings
 markdown: kramdown
 #highlighter: rouge
-pygments: rouge
+#pygments: rouge
+highlighter: pygments
