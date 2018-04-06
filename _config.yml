@@ -8,5 +8,5 @@ github_username:  csp-vigne
 
 # Build settings
 markdown: kramdown
-#highlighter: rouge
+highlighter: rouge
 #pygments: rouge
